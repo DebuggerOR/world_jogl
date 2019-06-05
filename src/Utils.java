@@ -1,8 +1,3 @@
-/**
- * shlomo rabinovich 308432517
- * ori fogler 318732484
- */
-
 
 import com.jogamp.opengl.util.texture.Texture;
 import com.jogamp.opengl.util.texture.TextureIO;
